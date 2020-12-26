@@ -11,3 +11,5 @@ The data for this model will be based on ‘Jigs’ and ‘Hornpipes’.The Jigs
 The notation has two parts:
 Part 1, where there are details of the index, time signature,type of tune etc
 Part 2 represents the sequence of characters or notes. 
+
+The file named data.tunes contains all the text music files and the ipynb notebook contains the code.
